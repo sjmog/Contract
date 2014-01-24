@@ -45,11 +45,15 @@ Now, let’s do our best work together!
 
 **Sam Morgan, ‘Handcrafted’, ‘I’:**
 
-[Address]
+145-157 St John Street,
+London,	 
+EC1V 4PW
 
-**[Name], ‘The Client’, ‘You’:**
+**Mark Stormont, ‘Stormont London’, ‘The Client’, ‘You’:**
 
-[Address]
+85 Highbury New Park,
+London,
+N5 2EU
 
 ## Scope of The Work
 
