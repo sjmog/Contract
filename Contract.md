@@ -106,7 +106,7 @@ explicitly state if this is not acceptable before signing this document. I am al
 I shall explicitly seek Your consent before open sourcing—or writing in any
 detail about—any of the code or techniques employed in The Work.
 
-## Alterations, amends and maintenance
+## Alterations, amendments and maintenance
 
 Any amends which do not drastically alter the scope of The Work, or that are
 intended to bring The Work more in line with project requirements (those stated in The Proposal), usually fall
@@ -155,7 +155,7 @@ any outstanding invoices.
 Any agreed expenses (e.g. font licenses, etc.) shall be charged
 on top of any charges relating directly to The Work when they have been explicitly agreed. Any costs incurred without prior agreement are My responsibility.
 
-## tl;dr
+## TL;DR
 
 Let’s be respectful and mindful of each other at all times, before, during
 and after The Work. I've got your back.
